@@ -1,5 +1,7 @@
 ###### ApacheFriends XAMPP Version 5.6.12 ######
 //test
+//change 22
+
 Important! PHP in this package needs the Microsoft Visual C++ 2008 Redistributable package from
 http://www.microsoft.com/en-us/download/details.aspx?id=5582. Please ensure that the VC++ 2008 runtime
 libraries are installed on your system.    
